@@ -1,1 +1,1 @@
-# Assignment
+The file titled "Answers and codes explained" provides the details of the steps that were conducted for each task. The codes for python are saved as "codes of question 1-4" and codes for STATA are saved as "codes of question 5-15". The files titled "lakisha_aer", "nls", and "gender.csv" were used for STATA tasks. 
