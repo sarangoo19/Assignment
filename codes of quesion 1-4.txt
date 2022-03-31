@@ -1,0 +1,25 @@
+# ASSIGNMENT CODES OF QUESTION FROM 1-4
+    # Question 1.Understand folder structure. Perform operations on files in different folders
+
+pwd
+cd C:\Users\sarag\OneDrive\Desktop\Assignment
+ls -l
+cd data
+
+    # Question 2. Automate repeating tasks using Python “for” loops.
+    
+for number in [2, 3, 5]:
+    print(number)
+    
+    # Question 3. Break up work into smaller components using Python functions.
+
+def print_date(year, month, day):
+    joined = str(year) + '/' + str(month) + '/' + str(day)
+    print(joined)
+print_date(2022, 3, 30) 
+    
+    # Question 4. Use Python “lists” and “dictionaries” appropriately. Demonstrate one of the two.
+    
+number = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+print('number:', number)
+print('length:', len(number))
